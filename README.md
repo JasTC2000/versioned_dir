@@ -1,3 +1,6 @@
+Added the file README.md so that we have an initial file to
+play with in Git
+
 # Hello World
 
 This is a text file that we are going to add to Git.
